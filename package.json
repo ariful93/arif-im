@@ -1,0 +1,12 @@
+{
+  "name": "arif.im",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.10"
+  }
+}
