@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        philosopher: "'Philosopher', sans-serif"
+        poppins: "'Poppins', sans-serif",
+        openSans: "'Open Sans', sans-serif"
       }
     },
   },
